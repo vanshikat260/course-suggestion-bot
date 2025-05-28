@@ -25,5 +25,6 @@ An intelligent chatbot that recommends tech courses (AI, Frontend, Backend) to u
      - Select completed courses from a predefined catalog
      - Receive tailored course suggestions
 
+![Screenshot 2025-05-28 204927](https://github.com/user-attachments/assets/73b7d216-1009-4f72-b917-157e5a2bad68)
 
 
